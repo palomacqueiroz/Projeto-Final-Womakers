@@ -15,12 +15,10 @@ body {
     font-family: 'Josefin Sans', sans-serif;
 }
 
-img.photo {
-    width: 220;
+img.photo {    
     height: 250px;
     padding: 10px;
     background: #fff;
-    position: fixed;
     top: 150px;
     left: 150pt;  
     margin-bottom: 10px;
@@ -34,7 +32,6 @@ img.photo {
     font-size: 30px;
     text-align: center;
     justify-content: center;
-    position: fixed;
     top: 220px;
        
 }
