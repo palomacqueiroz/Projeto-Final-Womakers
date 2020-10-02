@@ -1,6 +1,6 @@
 
 body {
-    background: url(../img/planofundo.jpg);
+    background-image: url(./img/planofundo.jpg);
     background-size: cover;
     display: flex;
     justify-content: center; 
