@@ -1,0 +1,80 @@
+
+body {
+    background: url(../img/planofundo.jpg); black;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    color:rgb(105, 11, 124)
+}
+
+
+.main {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+img.photo {
+    width: 220;
+    height: 250px;
+    padding: 10px;
+    background: #fff;
+    position: fixed;
+    top: 150px;
+    left: 150pt;  
+    margin-bottom: 10px;
+    border-radius: 100%;
+    border-bottom-left-radius: 10px;
+
+}
+
+.text {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    justify-content: center;
+    position: fixed;
+    top: 220px;
+       
+}
+
+
+.social-media{
+    font-family: 'Josefin Sans', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: inherit;
+    color:purple;
+    margin: 14px 0;
+    padding: 0;
+    
+    
+}
+
+.social-media p{
+    font-family: 'Josefin Sans', sans-serif;
+    color: purple;
+    font-size: 18px;
+}
+
+.social-media li{
+    flex-grow: 1;
+    margin-left: 5px ;
+    font-size: 30px;
+}
+
+.social-media li a{
+    border-radius: 3px;
+    padding: 10px;
+    display: block;
+    font-size: 25px;
+}
+
+@media (max-width: 767px) { 
+    header { 
+      max-width: 100%; 
+      padding: 20px;
+      margin: 0;
+      text-align: center;
+    }
