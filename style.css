@@ -17,7 +17,7 @@ body {
     min-height: 100vh;
     padding-right: 40vh;
     margin-block-end: 40vh;
-    }  
+}  
 
 .main {
     font-family: 'Josefin Sans', sans-serif;
@@ -37,17 +37,15 @@ body {
     margin-bottom: 20px;
     border-radius: 100%;   
     border-bottom-left-radius: 10px; 
-   }
+}
 
 .text {
     font-family: 'Josefin Sans', sans-serif;
     font-size: 30px;
     text-align: center;  
     align-content:center;     
-    top: 220px;      
-       
+    top: 220px;        
 }
-
 
 .social-media{
     font-family: 'Josefin Sans', sans-serif;
@@ -57,9 +55,7 @@ body {
     justify-content: inherit;
     color:purple;
     margin: 14px 0;
-    padding: 0;  
-
-    
+    padding: 0;      
 }
 
 .social-media p{
